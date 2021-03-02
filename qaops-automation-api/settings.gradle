@@ -1,0 +1,2 @@
+rootProject.name = 'qaops-automation-api'
+include('app')
